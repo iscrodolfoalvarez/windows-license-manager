@@ -21,6 +21,9 @@
 
 <p align="center">
   <img src="main.png" alt="Interfaz Principal" width="700">
+   <img src="acciones.png" alt="Interfaz Acciones" width="700">
+   <img src="logs.png" alt="Interfaz Logs" width="700">
+   <img src="ajustes.png" alt="Interfaz Ajustes" width="700">
 </p>
 
 ---
