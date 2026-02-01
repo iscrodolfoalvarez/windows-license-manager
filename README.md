@@ -20,7 +20,7 @@
 ## 📸 **Preview**
 
 <p align="center">
-  <img src="screenshots/main.png" alt="Interfaz Principal" width="700">
+  <img src="main.png" alt="Interfaz Principal" width="700">
 </p>
 
 ---
